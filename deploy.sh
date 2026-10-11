@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Deployment Environment: Production"
+echo "Deployment Environment: Staging-Verified"
 echo "Starting deployment process..."
